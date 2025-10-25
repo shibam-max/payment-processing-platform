@@ -4,8 +4,6 @@
 
 Enterprise-grade payment processing platform built with **Java/J2EE, Spring Boot, Hibernate** for handling high-volume financial transactions. Designed for **complete transaction lifecycle management** in the **payments domain** with focus on **security, reliability, and performance**.
 
-## 🎯 Perfect for PayPal Backend Engineer Role
-
 This project demonstrates **exactly** what PayPal is looking for:
 - ✅ **Complete transaction processing lifecycle** in payments domain
 - ✅ **Java/J2EE, Spring Boot, Hibernate** - Core technology stack
