@@ -1,0 +1,92 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+target/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database
+*.db
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Spring Boot
+spring-boot-*.jar
+
+# Docker
+.dockerignore
+
+# Kubernetes secrets
+k8s/*secret*.yaml
+!k8s/*secret*.yaml.template
+
+# Application specific
+application-local.yml
+application-dev.yml
+application-test.yml
+
+# Test coverage
+coverage/
+*.lcov
+.nyc_output
+
+# Security
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+
+# Backup files
+*.bak
+*.backup
